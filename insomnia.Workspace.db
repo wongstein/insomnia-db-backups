@@ -1,9 +1,7 @@
 {"_id":"wrk_0f237292675548fbabb382600c851ac9","type":"Workspace","parentId":"proj_team_59d563aca3a64aea97eda547b10742af","modified":1672791836333,"created":1647436001808,"name":"Shlomi's Team Collection","description":"","scope":"collection"}
 {"_id":"wrk_249b1ebe364f4bc4b2dbd980611b5d36","type":"Workspace","parentId":"proj_default-project","modified":1671822112434,"created":1671822112434,"name":"New Document","description":"","scope":"design"}
 {"_id":"wrk_271c2dd29daf4a6e8ae7cefc03da9adf","type":"Workspace","parentId":"proj_default-project","modified":1671486518354,"created":1671486518354,"name":"New Document","description":"","scope":"design"}
-{"_id":"wrk_291a47b774484d3696e1aac4c5fe08ce","type":"Workspace","parentId":"proj_default-project","modified":1672930570089,"created":1672930570089,"name":"New Document","description":"","scope":"design"}
 {"_id":"wrk_302a8d48ff1d46b8a3e0b4a666e9f256","type":"Workspace","parentId":"proj_team_c4f5f6eb3bae4afc800fd1ee4c1f08e0","modified":1673995580896,"created":1595446059776,"name":"Insomnia API","description":"","scope":"collection"}
-{"_id":"wrk_50833e78db624a19b4ac7d27c5a427fe","type":"Workspace","parentId":"proj_default-project","modified":1673024493898,"created":1673024493898,"name":"New Document","description":"","scope":"design"}
 {"_id":"wrk_5b03c29198764a0a903ab27697fa0d66","type":"Workspace","parentId":"proj_default-project","modified":1673019526851,"created":1673019526851,"name":"New Document","description":"","scope":"design"}
 {"_id":"wrk_66d4508042874797a1cde29eda816602","type":"Workspace","parentId":"proj_default-project","modified":1672774850638,"created":1672774850638,"name":"New Document","description":"","scope":"design"}
 {"_id":"wrk_68b22f3072274493aeb41b8383c05b70","type":"Workspace","parentId":"proj_default-project","modified":1672773592467,"created":1672773592467,"name":"New Document","description":"","scope":"design"}
@@ -15,5 +13,14 @@
 {"_id":"wrk_e8cb2900a87c460f9b74d3c8f8290284","type":"Workspace","parentId":"proj_default-project","modified":1672861967660,"created":1672861967660,"name":"New Document","description":"","scope":"design"}
 {"_id":"wrk_f0604c1471c5400a954eb2d952638f6f","type":"Workspace","parentId":"proj_team_0affdd1d1e3e412499b74ffc239aa1a8","modified":1671685311437,"created":1663329084047,"name":"Insomnia 101","description":"","scope":"collection"}
 {"_id":"wrk_fe6bd91d831c4beea5899458ce846d92","type":"Workspace","parentId":"proj_default-project","modified":1672791624207,"created":1672791624207,"name":"New Document","description":"","scope":"design"}
-{"$$deleted":true,"_id":"wrk_50833e78db624a19b4ac7d27c5a427fe"}
-{"$$deleted":true,"_id":"wrk_291a47b774484d3696e1aac4c5fe08ce"}
+{"$$deleted":true,"_id":"wrk_e8cb2900a87c460f9b74d3c8f8290284"}
+{"$$deleted":true,"_id":"wrk_5b03c29198764a0a903ab27697fa0d66"}
+{"$$deleted":true,"_id":"wrk_fe6bd91d831c4beea5899458ce846d92"}
+{"$$deleted":true,"_id":"wrk_68b22f3072274493aeb41b8383c05b70"}
+{"$$deleted":true,"_id":"wrk_66d4508042874797a1cde29eda816602"}
+{"$$deleted":true,"_id":"wrk_711071866ee64bf5a9a25442a63910b1"}
+{"$$deleted":true,"_id":"wrk_d8df5c13465b4913803171e13a44c0fd"}
+{"$$deleted":true,"_id":"wrk_c8f7a753ea67401aaef6d529f1b9015c"}
+{"$$deleted":true,"_id":"wrk_249b1ebe364f4bc4b2dbd980611b5d36"}
+{"$$deleted":true,"_id":"wrk_98990f93d10244beb0f07347ccd1df83"}
+{"$$deleted":true,"_id":"wrk_271c2dd29daf4a6e8ae7cefc03da9adf"}

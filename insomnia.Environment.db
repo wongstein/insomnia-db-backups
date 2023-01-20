@@ -1,4 +1,3 @@
-{"_id":"env_033e81306f105237c83d4a2b1fc1a1ad26990cca","type":"Environment","parentId":"wrk_291a47b774484d3696e1aac4c5fe08ce","modified":1672930570113,"created":1672930570113,"name":"Base Environment","data":{},"dataPropertyOrder":null,"color":null,"isPrivate":false,"metaSortKey":1672930570113}
 {"_id":"env_0759da33c89064bcddc309c3ff97c675c728001d","type":"Environment","parentId":"wrk_249b1ebe364f4bc4b2dbd980611b5d36","modified":1671822112457,"created":1671822112457,"name":"Base Environment","data":{},"dataPropertyOrder":null,"color":null,"isPrivate":false,"metaSortKey":1671822112457}
 {"_id":"env_15567b716a6e6b3d2de9bedbd059fe77d73ad2a2","type":"Environment","parentId":"wrk_fe6bd91d831c4beea5899458ce846d92","modified":1672791624227,"created":1672791624227,"name":"Base Environment","data":{},"dataPropertyOrder":null,"color":null,"isPrivate":false,"metaSortKey":1672791624227}
 {"_id":"env_1d2c0ad6cde34613b7a1f6eb4f524bfc","type":"Environment","parentId":"env_8bb266732eadcdf637e865f5fead9790e0de0584","modified":1673994259387,"created":1663584221443,"name":"Dev Environment","data":{"url":"http://localhost:8000"},"dataPropertyOrder":{"&":["url"]},"color":null,"isPrivate":false,"metaSortKey":1663584221443}
@@ -17,9 +16,17 @@
 {"_id":"env_b4133939cdf9aa476d6e08b3ce2844b7ef1947a2","type":"Environment","parentId":"wrk_66d4508042874797a1cde29eda816602","modified":1672774850661,"created":1672774850661,"name":"Base Environment","data":{},"dataPropertyOrder":null,"color":null,"isPrivate":false,"metaSortKey":1672774850661}
 {"_id":"env_d17dfd8e2353e12eaaec883298d8aabe4997c893","type":"Environment","parentId":"wrk_d8df5c13465b4913803171e13a44c0fd","modified":1672762447375,"created":1672762447375,"name":"Base Environment","data":{},"dataPropertyOrder":null,"color":null,"isPrivate":false,"metaSortKey":1672762447375}
 {"_id":"env_d6af7d12921ed9bf3a86d098ee5803581557996f","type":"Environment","parentId":"wrk_5b03c29198764a0a903ab27697fa0d66","modified":1673019526871,"created":1673019526871,"name":"Base Environment","data":{},"dataPropertyOrder":null,"color":null,"isPrivate":false,"metaSortKey":1673019526871}
-{"_id":"env_e409d5d01f185f5354b26443d7e0ace29dc0bc4d","type":"Environment","parentId":"wrk_50833e78db624a19b4ac7d27c5a427fe","modified":1673024493910,"created":1673024493910,"name":"Base Environment","data":{},"dataPropertyOrder":null,"color":null,"isPrivate":false,"metaSortKey":1673024493910}
 {"_id":"env_eb8bd5d084d877da3e41bb2cda13f2c3f4b72774","type":"Environment","parentId":"wrk_c8f7a753ea67401aaef6d529f1b9015c","modified":1671821187498,"created":1671821187498,"name":"Base Environment","data":{},"dataPropertyOrder":null,"color":null,"isPrivate":false,"metaSortKey":1671821187498}
 {"_id":"env_f5123ed77c4741b6aa04099b3b82db35","type":"Environment","parentId":"wrk_302a8d48ff1d46b8a3e0b4a666e9f256","modified":1673995580879,"created":1595446059779,"name":"Base Environment","data":{"base_url":"https://api.insomnia.rest","session_id":"688132b9246c27c86cbd20c441fff523caca654993cc80a84b79eed979cf4304"},"dataPropertyOrder":{"&":["base_url","session_id"]},"color":null,"isPrivate":false,"metaSortKey":1537059532726}
 {"_id":"env_f571d1e7cd094efa8c448def6cfdd114","type":"Environment","parentId":"env_f5123ed77c4741b6aa04099b3b82db35","modified":1673995580880,"created":1670618339369,"name":"Kristofer Session","data":{"base_url":"https://api.insomnia.rest","session_id":"688132b9246c27c86cbd20c441fff523caca654993cc80a84b79eed979cf4304"},"dataPropertyOrder":{"&":["base_url","session_id"]},"color":null,"isPrivate":false,"metaSortKey":1670618339369}
-{"$$deleted":true,"_id":"env_e409d5d01f185f5354b26443d7e0ace29dc0bc4d"}
-{"$$deleted":true,"_id":"env_033e81306f105237c83d4a2b1fc1a1ad26990cca"}
+{"$$deleted":true,"_id":"env_97fe352bfcfd8f08fe19df86370640f40719ddbe"}
+{"$$deleted":true,"_id":"env_d6af7d12921ed9bf3a86d098ee5803581557996f"}
+{"$$deleted":true,"_id":"env_15567b716a6e6b3d2de9bedbd059fe77d73ad2a2"}
+{"$$deleted":true,"_id":"env_9fcb99bd398d9458c7d4e9ab5b273a66a8b831bd"}
+{"$$deleted":true,"_id":"env_b4133939cdf9aa476d6e08b3ce2844b7ef1947a2"}
+{"$$deleted":true,"_id":"env_5a5ed60f96c4ce379f653c756905b93803051d24"}
+{"$$deleted":true,"_id":"env_d17dfd8e2353e12eaaec883298d8aabe4997c893"}
+{"$$deleted":true,"_id":"env_eb8bd5d084d877da3e41bb2cda13f2c3f4b72774"}
+{"$$deleted":true,"_id":"env_0759da33c89064bcddc309c3ff97c675c728001d"}
+{"$$deleted":true,"_id":"env_a1c76c0a610b149efe68529155cd89cb368ef794"}
+{"$$deleted":true,"_id":"env_82e11789f37eaefc14275080e45ae942a1b512b8"}
