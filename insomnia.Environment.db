@@ -30,3 +30,4 @@
 {"$$deleted":true,"_id":"env_0759da33c89064bcddc309c3ff97c675c728001d"}
 {"$$deleted":true,"_id":"env_a1c76c0a610b149efe68529155cd89cb368ef794"}
 {"$$deleted":true,"_id":"env_82e11789f37eaefc14275080e45ae942a1b512b8"}
+{"_id":"env_57ff4094db38e57643dc9ec24b4805d56682b517","type":"Environment","parentId":"wrk_302a8d48ff1d46b8a3e0b4a666e9f256","modified":1671817614428,"created":1671817614428,"name":"Base Environment","data":{},"dataPropertyOrder":null,"color":null,"isPrivate":false,"metaSortKey":1671817614428}

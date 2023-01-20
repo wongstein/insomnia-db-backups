@@ -24,3 +24,4 @@
 {"$$deleted":true,"_id":"wrk_249b1ebe364f4bc4b2dbd980611b5d36"}
 {"$$deleted":true,"_id":"wrk_98990f93d10244beb0f07347ccd1df83"}
 {"$$deleted":true,"_id":"wrk_271c2dd29daf4a6e8ae7cefc03da9adf"}
+{"_id":"wrk_302a8d48ff1d46b8a3e0b4a666e9f256","type":"Workspace","parentId":"proj_team_c4f5f6eb3bae4afc800fd1ee4c1f08e0","modified":1671817614426,"created":1671817614426,"name":"My Collection","description":"","scope":"collection"}
